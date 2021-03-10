@@ -1,11 +1,9 @@
 applyBackground=false
-codemix.dont.show.upsell.until=1616797309813
+approved.defs.file.last.changed.time=1614897334000
 configurationInstallLocation=/snap/eclipse/48/
 eclipse.preferences.version=1
 iconcolormode=primary
-includeThemingInOomph=false
-last.download.attempt.time=1614896666536
-lastConfiguration=1614988884493
-newinstall=false
-showWelcomeDialog=false
+last.download.attempt.time=1615328490835
+lastConfiguration=1614896501001
+newinstall=true
 workbench.theme=Dark Gray
