@@ -10,6 +10,7 @@ import br.com.fiap.exercicio.bean.ContaPoupanca;
 import br.com.fiap.exercicio.bean.TipoConta;
 import br.com.fiap.exercicio.exception.SaldoInsuficienteException;
 
+@SuppressWarnings("all")
 public class TesteContas {
 
 	public static void main(String[] args) {
