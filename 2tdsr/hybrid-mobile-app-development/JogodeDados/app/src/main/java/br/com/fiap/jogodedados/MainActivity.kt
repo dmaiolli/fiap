@@ -41,6 +41,7 @@ class MainActivity : AppCompatActivity() {
         imgJogador01.setImageResource( imgs[dadoJogador01] )
         imgJogador02.setImageResource( imgs[dadoJogador02] )
 
+        quemVenceu(dadoJogador01, dadoJogador02);
     }
 
     fun quemVenceu(jogador01 : Int, jogador02 : Int) {
