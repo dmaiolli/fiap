@@ -34,7 +34,7 @@ public class CalculadoraDeDesconto {
 								new SemDesconto()
 				));
 		
-		return cadeiaDeDesconto.calcular(pedido);
+		return (BigDecimal) cadeiaDeDesconto.calcular(pedido);
 	}
 
 }
