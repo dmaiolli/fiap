@@ -14,9 +14,24 @@
         android:src="@drawable/person1" />
 
     <Button
+        android:id="@+id/btnPerson01"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Sorteia imagem"
+        android:text="PESSOA 01"
+        android:onClick="sorteiaImagem" />
+
+    <Button
+        android:id="@+id/btnPerson02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PESSOA 02"
+        android:onClick="sorteiaImagem" />
+
+    <Button
+        android:id="@+id/btnPerson03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PESSOA 03"
         android:onClick="sorteiaImagem" />
 
 </LinearLayout>

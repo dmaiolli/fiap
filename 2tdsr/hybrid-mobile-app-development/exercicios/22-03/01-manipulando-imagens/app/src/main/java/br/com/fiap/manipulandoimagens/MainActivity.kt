@@ -10,12 +10,6 @@ class MainActivity : AppCompatActivity() {
 
     lateinit var imgView : ImageView;
 
-    val images = intArrayOf(
-        R.drawable.person1,
-        R.drawable.person2,
-        R.drawable.person3,
-    )
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -24,8 +18,13 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun sorteiaImagem(view: View) {
-        val sorteia = Random.nextInt( images.size )
-        
-        imgView.setImageResource( images[sorteia] )
+        // Equivalente ao switch/case
+        val imagem = when ( view.id ) {
+            R.id.btnPerson01 -> R.drawable.person1
+            R.id.btnPerson02 -> R.drawable.person2
+            else -> R.drawable.person3
+        }
+
+        imgView.setImageResource(imagem);
     }
 }
