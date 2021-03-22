@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:id="@+id/imgView1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="16px"
+        android:src="@drawable/person1"/>
+
+    <ImageView
+        android:id="@+id/imgView2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="16px"
+        android:src="@drawable/person2"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="trocarImagens"
+        android:text="Trocar Imagens" />
+
+</LinearLayout>
