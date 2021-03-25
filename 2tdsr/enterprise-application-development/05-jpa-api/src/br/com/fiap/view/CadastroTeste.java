@@ -19,7 +19,7 @@ public class CadastroTeste {
 		EntityManager em = fabrica.createEntityManager();
 
 		// Instanciar um veiculo sem o código (estado transação: new, não gerenciado)
-		Veiculo veiculo = new Veiculo("FIAT", "Prata", new GregorianCalendar(2021, Calendar.APRIL, 1),
+		Veiculo veiculo = new Veiculo("FIAT", "ROXO", new GregorianCalendar(2021, Calendar.APRIL, 1),
 				Combustivel.COMBUSTIVEL, false);
 
 		// Cadastrar o veiculo

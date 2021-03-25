@@ -13,8 +13,6 @@ public class Pedido {
 	@Coluna(nome="ds_pedido", tamanho = 100)
 	private String descricao;
 	
-
-
 	public int getCodigo() {
 		return codigo;
 	}

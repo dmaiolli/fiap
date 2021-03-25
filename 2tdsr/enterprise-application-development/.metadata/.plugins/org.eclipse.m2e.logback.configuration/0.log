@@ -891,3 +891,457 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact oracle:jdbc-d
 2021-03-16 22:52:14,965 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/main/resources
 2021-03-16 22:52:14,966 [Worker-103: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-03-16 22:52:14,966 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/test/resources
+2021-03-23 19:04:20,695 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-23 19:36:23,911 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 19:36:23,917 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/main/resources
+2021-03-23 19:36:23,920 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 19:36:23,921 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/test/resources
+2021-03-23 19:47:17,627 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 19:47:17,628 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/main/resources
+2021-03-23 19:47:17,630 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 19:47:17,631 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/test/resources
+2021-03-23 19:48:08,518 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 19:48:08,519 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/main/resources
+2021-03-23 19:48:08,521 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 19:48:08,522 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/test/resources
+2021-03-23 19:57:33,715 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 19:57:33,716 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/main/resources
+2021-03-23 19:57:33,722 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 19:57:33,723 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/test/resources
+2021-03-23 20:01:06,524 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:01:06,525 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/main/resources
+2021-03-23 20:01:06,527 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:01:06,528 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/test/resources
+2021-03-23 20:01:34,022 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:01:34,022 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/main/resources
+2021-03-23 20:01:34,024 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:01:34,024 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/test/resources
+2021-03-23 20:03:47,299 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 04-JPA-Introducao:04-JPA-Introducao:0.0.1-SNAPSHOT @ /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/pom.xml.
+2021-03-23 20:03:47,727 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:03:47,728 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/main/resources
+2021-03-23 20:03:47,731 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:03:47,732 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/test/resources
+2021-03-23 20:05:17,193 [Worker-36: Opening POM] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/oracle/jdbc-driver/12/jdbc-driver-12.pom
+2021-03-23 20:05:17,203 [Worker-36: Opening POM] ERROR o.e.m.c.u.i.actions.OpenPomAction - Could not resolve artifact oracle:jdbc-driver:pom:12
+org.eclipse.core.runtime.CoreException: Could not resolve artifact oracle:jdbc-driver:pom:12
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.OpenPomAction.openPomEditor(OpenPomAction.java:242) [org.eclipse.m2e.core.ui_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.OpenPomAction.openEditor(OpenPomAction.java:217) [org.eclipse.m2e.core.ui_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.editor.xml.PomHyperlinkDetector$6$1.run(PomHyperlinkDetector.java:617) [org.eclipse.m2e.editor.xml_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2021-03-23 20:06:36,377 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 04-JPA-Introducao:04-JPA-Introducao:0.0.1-SNAPSHOT @ /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/pom.xml.
+2021-03-23 20:06:36,584 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:06:36,584 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/main/resources
+2021-03-23 20:06:36,587 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:06:36,587 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/test/resources
+2021-03-23 20:06:37,715 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:06:37,716 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/main/resources
+2021-03-23 20:06:37,718 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:06:37,719 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/test/resources
+2021-03-23 20:06:38,113 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/jdbc-driver/8/jdbc-driver-8-sources.jar
+2021-03-23 20:06:38,115 [Worker-36: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.oracle.database.jdbc:jdbc-driver:8
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.oracle.database.jdbc:jdbc-driver:jar:sources:8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2021-03-23 20:06:41,632 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/jdbc-driver/8/jdbc-driver-8-javadoc.jar
+2021-03-23 20:06:41,633 [Worker-39: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.oracle.database.jdbc:jdbc-driver:8
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.oracle.database.jdbc:jdbc-driver:jar:javadoc:8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2021-03-23 20:13:10,538 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-23 20:21:52,597 [Worker-4: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: 05-jpa-api:05-jpa-api:0.0.1-SNAPSHOT @ /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/pom.xml.
+2021-03-23 20:21:52,943 [Worker-4: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-03-23 20:21:52,961 [Worker-4: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: 05-jpa-api:05-jpa-api:0.0.1-SNAPSHOT @ /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/pom.xml.
+2021-03-23 20:21:53,025 [Worker-4: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-03-23 20:25:06,189 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 04-JPA-Introducao:04-JPA-Introducao:0.0.1-SNAPSHOT @ /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/pom.xml.
+2021-03-23 20:25:06,690 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:25:06,692 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:25:06,695 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:25:06,696 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:26:00,843 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:26:00,845 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:26:00,847 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:26:00,848 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:26:26,528 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:26:26,528 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:26:26,531 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:26:26,532 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:26:40,746 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:26:40,747 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:26:40,749 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:26:40,749 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:26:58,977 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:26:58,978 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:26:58,981 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:26:58,982 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:28:38,820 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:28:38,820 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:28:38,822 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:28:38,822 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:29:00,689 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:29:00,690 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:29:00,693 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:29:00,694 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:29:20,115 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:29:20,115 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:29:20,119 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:29:20,120 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:33:46,078 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:33:46,079 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:33:46,081 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:33:46,082 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:33:56,396 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:33:56,397 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:33:56,400 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:33:56,401 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:33:58,320 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:33:58,320 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:33:58,322 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:33:58,322 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:37:16,143 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:37:16,144 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:37:16,145 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:37:16,146 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:38:06,829 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:38:06,830 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:38:06,832 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:38:06,833 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:40:24,507 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:40:24,507 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:40:24,510 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:40:24,511 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:41:25,562 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:41:25,563 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:41:25,568 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:41:25,568 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:46:21,343 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:46:21,344 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:46:21,349 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:46:21,350 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:46:25,375 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:46:25,376 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:46:25,378 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:46:25,378 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:47:46,000 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:47:46,002 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:47:46,003 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:47:46,004 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:48:49,065 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 04-JPA-Introducao:04-JPA-Introducao:0.0.1-SNAPSHOT @ /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-apiss/pom.xml.
+2021-03-23 20:48:49,262 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:48:49,262 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-apiss/src/main/resources
+2021-03-23 20:48:49,264 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:48:49,264 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-apiss/src/test/resources
+2021-03-23 20:50:00,475 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: teste:teste:0.0.1-SNAPSHOT @ /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/pom.xml.
+2021-03-23 20:50:00,733 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /teste/src
+2021-03-23 20:50:00,738 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /teste/src/test/java because it overlaps with /teste/src
+2021-03-23 20:50:00,929 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-03-23 20:50:00,989 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: teste:teste:0.0.1-SNAPSHOT @ /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/pom.xml.
+2021-03-23 20:50:01,093 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /teste/src
+2021-03-23 20:50:01,093 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /teste/src/test/java because it overlaps with /teste/src
+2021-03-23 20:50:01,118 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-03-23 20:50:01,295 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:50:01,296 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/main/resources
+2021-03-23 20:50:01,298 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:50:01,298 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/test/resources
+2021-03-23 20:50:13,868 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 04-JPA-Introducao:04-JPA-Introducao:0.0.1-SNAPSHOT @ /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/pom.xml.
+2021-03-23 20:50:14,068 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:50:14,069 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/main/resources
+2021-03-23 20:50:14,072 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:50:14,073 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/test/resources
+2021-03-23 20:50:32,491 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:50:32,492 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/main/resources
+2021-03-23 20:50:32,493 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:50:32,494 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/test/resources
+2021-03-23 20:50:55,004 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:50:55,005 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/main/resources
+2021-03-23 20:50:55,006 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:50:55,007 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/test/resources
+2021-03-23 20:51:05,348 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:51:05,349 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/main/resources
+2021-03-23 20:51:05,350 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:51:05,351 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/test/resources
+2021-03-23 20:51:36,611 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:51:36,612 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/main/resources
+2021-03-23 20:51:36,614 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:51:36,614 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/test/resources
+2021-03-23 20:51:46,013 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:51:46,013 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/main/resources
+2021-03-23 20:51:46,015 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:51:46,015 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/teste/src/test/resources
+2021-03-23 20:51:57,730 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 04-JPA-Introducao:04-JPA-Introducao:0.0.1-SNAPSHOT @ /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/pom.xml.
+2021-03-23 20:51:57,994 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:51:57,994 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:51:57,995 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:51:57,996 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:51:59,128 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:51:59,129 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:51:59,130 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:51:59,131 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:52:07,675 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:52:07,675 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:52:07,677 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:52:07,677 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:52:31,869 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:52:31,870 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:52:31,872 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:52:31,872 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:53:03,212 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:53:03,213 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:53:03,214 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:53:03,216 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:54:30,709 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:54:30,709 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:54:30,711 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:54:30,712 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:55:35,982 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:55:35,983 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:55:35,985 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:55:35,986 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 20:56:01,874 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:56:01,874 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 20:56:01,876 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 20:56:01,876 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:18:31,063 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:18:31,064 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:18:31,065 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:18:31,066 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:21:49,563 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:21:49,564 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:21:49,565 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:21:49,566 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:22:22,912 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:22:22,913 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:22:22,914 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:22:22,915 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:22:47,703 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:22:47,704 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:22:47,706 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:22:47,706 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:25:11,880 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:25:11,881 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:25:11,882 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:25:11,882 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:25:54,231 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:25:54,232 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:25:54,233 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:25:54,234 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:28:45,942 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:28:45,943 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:28:45,945 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:28:45,945 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:31:39,600 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:31:39,600 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:31:39,602 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:31:39,602 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:31:41,509 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:31:41,510 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:31:41,511 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:31:41,512 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:36:19,229 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:36:19,229 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:36:19,231 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:36:19,232 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:36:20,816 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:36:20,817 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:36:20,818 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:36:20,818 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:41:35,046 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:41:35,047 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:41:35,049 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:41:35,064 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:41:57,941 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:41:57,942 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:41:57,943 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:41:57,943 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:42:03,808 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:42:03,808 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:42:03,810 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:42:03,810 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:42:48,086 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:42:48,096 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:42:48,101 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:42:48,101 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:43:14,573 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:43:14,574 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:43:14,576 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:43:14,576 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:43:42,425 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:43:42,425 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:43:42,426 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:43:42,427 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:45:59,039 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:45:59,040 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:45:59,042 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:45:59,042 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:47:37,094 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:47:37,095 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:47:37,097 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:47:37,098 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:49:34,471 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:49:34,475 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:49:34,476 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:49:34,476 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:52:32,160 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:52:32,161 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:52:32,162 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:52:32,163 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:52:38,372 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:52:38,372 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:52:38,373 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:52:38,374 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:52:56,623 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:52:56,625 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:52:56,626 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:52:56,628 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:55:28,495 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:55:28,497 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:55:28,500 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:55:28,501 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:55:29,728 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:55:29,728 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:55:29,734 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:55:29,735 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 21:58:18,821 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:58:18,822 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 21:58:18,823 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 21:58:18,823 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:00:53,960 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:00:53,960 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:00:53,963 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:00:53,964 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:01:54,214 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:01:54,215 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:01:54,216 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:01:54,217 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:02:53,311 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:02:53,313 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:02:53,315 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:02:53,317 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:06:00,404 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:06:00,404 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:06:00,407 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:06:00,407 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:06:55,914 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:06:55,915 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:06:55,916 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:06:55,917 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:07:01,268 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:07:01,269 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:07:01,270 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:07:01,271 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:08:15,947 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:08:15,948 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:08:15,951 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:08:15,952 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:08:32,564 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:08:32,564 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:08:32,565 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:08:32,566 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:08:42,861 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:08:42,862 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:08:42,863 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:08:42,863 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:10:29,072 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:10:29,073 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:10:29,074 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:10:29,075 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:11:32,431 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:11:32,432 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:11:32,434 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:11:32,437 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:11:58,405 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:11:58,405 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:11:58,406 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:11:58,409 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:12:16,672 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:12:16,672 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:12:16,673 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:12:16,678 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:18:03,661 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:18:03,661 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:18:03,665 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:18:03,666 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:19:49,349 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:19:49,350 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:19:49,351 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:19:49,351 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:25:34,745 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:25:34,745 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:25:34,747 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:25:34,748 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:32:13,824 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:32:13,826 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:32:13,827 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:32:13,828 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:32:38,251 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:32:38,252 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:32:38,253 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:32:38,255 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:36:01,352 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:36:01,353 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:36:01,355 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:36:01,355 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:37:25,512 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:37:25,513 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:37:25,514 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:37:25,515 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:37:42,733 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:37:42,734 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:37:42,736 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:37:42,737 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:45:58,353 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:45:58,358 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/main/resources
+2021-03-23 22:45:58,359 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:45:58,359 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/04-JPA-Introducao/src/test/resources
+2021-03-23 22:46:30,341 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-23 22:49:54,599 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:49:54,604 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:49:54,608 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:49:54,608 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:50:06,703 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:50:06,704 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:50:06,711 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:50:06,712 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:50:20,357 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:50:20,358 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:50:20,360 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:50:20,361 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources
+2021-03-23 22:52:21,338 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:52:21,340 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/main/resources
+2021-03-23 22:52:21,343 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-23 22:52:21,344 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dmaiolli/fiap/2tdsr/enterprise-application-development/05-jpa-api/src/test/resources

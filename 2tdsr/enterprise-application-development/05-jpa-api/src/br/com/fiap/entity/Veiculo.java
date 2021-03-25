@@ -10,6 +10,8 @@ import javax.persistence.Enumerated;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.PostPersist;
+import javax.persistence.PrePersist;
 import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
@@ -72,6 +74,17 @@ public class Veiculo {
 		this.isNovo = isNovo;
 	}
 
+	@PrePersist // Antes de cadastrar
+	public void testeAntes() {
+		System.out.println("Antes de cadastrar...");
+	}
+	
+	@PostPersist // Antes de cadastrar
+	public void testeDepos() {
+		System.out.println("Depois de cadastrar...");
+	}
+	
+	
 	@Override
 	public String toString() {
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm");
