@@ -7,8 +7,8 @@ public class TesteCalculadoraSoma {
 	@Test
 	public void testeCalculadoraSoma2com3() {
 		int n1 = 2;
-		int n2 = 3;
-		int resultEsperado = 5;
+		int n2 = 5;
+		int resultEsperado = 4;
 		
 		Calculadora calc = new Calculadora();
 		
