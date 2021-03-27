@@ -1,0 +1,27 @@
+package br.com.fiap.facade.desconto;
+
+import java.math.BigDecimal;
+
+import br.com.fiap.facade.loja.PedidoInterface;
+
+public abstract class Imposto {
+
+	protected Imposto outroImposto;
+
+	public Imposto(Imposto outroImposto) {
+		super();
+		this.outroImposto = outroImposto;
+	}
+
+	public BigDecimal calcular(PedidoInterface pedido) {
+		BigDecimal valorDoImposto = calcularImposto(pedido);
+		BigDecimal valorDoOutroImposto = BigDecimal.ZERO;
+
+		if (outroImposto != null) valorDoOutroImposto = outroImposto.calcular(pedido);
+		
+		return valorDoImposto.add(valorDoOutroImposto);
+	}
+
+	protected abstract BigDecimal calcularImposto(PedidoInterface pedido);
+
+}
