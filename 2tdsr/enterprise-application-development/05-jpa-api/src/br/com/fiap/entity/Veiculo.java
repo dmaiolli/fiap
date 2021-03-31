@@ -26,7 +26,7 @@ public class Veiculo {
 
 	@Id
 	@Column(name = "cd_veiculo")
-	@GeneratedValue(strategy = GenerationType.SEQUENCE)
+	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "veiculo")
 	private int codigoVeiculo;
 
 	@Column(name = "ds_marca", nullable = false, length = 60)
