@@ -9,6 +9,8 @@ import android.widget.Toast
 lateinit var imgView: ImageView
 
 var imagemAtual = 0 // guarda a posição que a imagem está atualmente
+
+// Imagens que estão na galeria
 val imgs = intArrayOf(
         R.drawable.p0,
         R.drawable.p1,
@@ -28,6 +30,11 @@ class MainActivity : AppCompatActivity() {
         imgView = findViewById(R.id.imgView);
     } // onCreate()
 
+    /**
+     * Calcula qual a proxima imagem
+     *
+     * @param view Componente que disparou o evento
+      */
     fun avancarImagem(view: View) {
         var proximaImagem = imagemAtual + 1
 
@@ -41,9 +48,14 @@ class MainActivity : AppCompatActivity() {
         imagemAtual++
         imgView.setImageResource(imgs[imagemAtual])
 
-        Toast.makeText(this, "Você está na imagem ${imagemAtual + 1}", Toast.LENGTH_SHORT).show()
+        trocarImagem(imagemAtual);
     } // avancarImagem()
 
+    /**
+     * Calcula qual a imagem anterior
+     *
+     * @param view Componente que disparou o evento
+     */
     fun recuarImagem(view: View) {
 
         // Valida se a imagem atual tem imagem antes
@@ -52,12 +64,22 @@ class MainActivity : AppCompatActivity() {
             return
         } // if
 
-        Toast.makeText(this, "Você está na imagem ${imagemAtual}", Toast.LENGTH_SHORT).show()
-
-        // Ajuda o indíce que aponta para a próxima imagem recuando
+        // Ajusta o indíce que aponta para a próxima imagem recuando
         imagemAtual--
         imgView.setImageResource(imgs[imagemAtual])
 
+        trocarImagem(imagemAtual);
+
     } // recuarImagem()
+
+    /**
+     * Troca a imagem do ImageView principal baseado na posição recebida
+     *
+     * @param posicao recebe a posição atual da imagem
+     */
+    fun trocarImagem( posicao: Int) {
+        imgView.setImageResource(imgs[posicao]);
+        Toast.makeText(this, "Você está na imagem ${imagemAtual + 1}", Toast.LENGTH_SHORT).show()
+    }
 
 }// main
