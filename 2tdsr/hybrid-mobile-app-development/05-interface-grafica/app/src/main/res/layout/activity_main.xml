@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cardápio" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Selecione o seu lanche: "/>
+
+    <CheckBox
+        android:checked="true"
+        android:id="@+id/chkSandubaGigante"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sanduba Gigante"/>
+
+    <CheckBox
+        android:checked="true"
+        android:id="@+id/chkXBurguer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="X-Burguer"/>
+
+    <CheckBox
+        android:id="@+id/chkXSalada"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="X-Salada"/>
+
+    <CheckBox
+        android:id="@+id/chkXBacon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="X-Bacon"/>
+
+    <CheckBox
+        android:id="@+id/chKMistoQuente"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Misto Quente"/>
+
+    <CheckBox
+        android:id="@+id/chkBeirute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Beirute"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Escolha a forma de pagamento: " />
+
+    <RadioGroup
+        android:id="@+id/rdgFormaPagamento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rdbPix"
+            android:checked="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pix" />
+
+        <RadioButton
+            android:id="@+id/rdbCartaoCredito"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cartão de crédito" />
+
+        <RadioButton
+            android:id="@+id/rdbBoleto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Boleto" />
+    </RadioGroup>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="finalizarPedido"
+        android:text="Finalizar pedido" />
+
+</LinearLayout>
