@@ -9,11 +9,11 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Digite sua frase" />
+        android:text="@string/digite_sua_frase" />
 
     <EditText
         android:id="@+id/edtFrase"
-        android:hint="Subi no onibus"
+        android:hint="@string/subi_no_onibus"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
@@ -21,6 +21,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="verificar"
-        android:text="Verificar" />
+        android:text="@string/verificar" />
 
 </LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Palindrome</string>
+    <string name="digite_sua_frase">Type something: </string>
+    <string name="subi_no_onibus">He did, eh?</string>
+    <string name="verificar">Verify</string>
+    <string name="informe_corretamente">Wrong text, try type another one</string>
+    <string name="eh_palindromo">It is a palindrome</string>
+    <string name="nao_eh_palindromo">It is not a palindrome</string>
+</resources>

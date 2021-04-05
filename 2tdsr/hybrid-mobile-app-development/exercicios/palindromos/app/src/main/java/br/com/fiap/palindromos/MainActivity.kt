@@ -24,13 +24,16 @@ class MainActivity : AppCompatActivity() {
         var txt = edtFrase.text.toString().trim().toLowerCase();
 
         if ( txt.isEmpty() ) {
-            toast("Informe corretamente uma palavra ou frase")
+            toast(getString(R.string.informe_corretamente))
             return
         }
 
         val txtInvertido = txt.reversed();
 
-        val frase = if ( txt.equals(txtInvertido) ) "É um palindromo" else "Não é um palindromo"
+        val frase = if ( txt.equals(txtInvertido) ) {
+            getString(R.string.eh_palindromo)
+        } else getString(
+                    R.string.nao_eh_palindromo)
 
         toast(frase);
     }
