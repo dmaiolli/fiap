@@ -10,16 +10,21 @@
 				update -> cria/atualiza as tabelas
 				create -> apaga e cria todas as tabelas
 				validate -> valida se as tabelas estão de acordo com a classe
-			-->
+			 -->
 			
-			<property name="hibernate.hbm2ddl.auto" value="create" />
+			<property name="hibernate.hbm2ddl.auto" value="update" />
+			
 			<property name="hibernate.dialect"
 				value="org.hibernate.dialect.Oracle12cDialect" />
+				
 			<property name="javax.persistence.jdbc.driver"
 				value="oracle.jdbc.OracleDriver" />
-			<property name="javax.persistence.jdbc.user" value="RM86487" />
+				
+			<property name="javax.persistence.jdbc.user" value="PF0392" />
+			
 			<property name="javax.persistence.jdbc.password"
-				value="171201" />
+				value="fiap" />
+				
 			<property name="javax.persistence.jdbc.url"
 				value="jdbc:oracle:thin:@oracle.fiap.com.br:1521:orcl" />
 		</properties>

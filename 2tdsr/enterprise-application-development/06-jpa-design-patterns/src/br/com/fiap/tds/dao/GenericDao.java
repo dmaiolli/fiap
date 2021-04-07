@@ -1,9 +1,9 @@
-package br.com.fiap.dao;
+package br.com.fiap.tds.dao;
 
-import br.com.fiap.exception.CommitException;
-import br.com.fiap.exception.EntityNotFoundException;
+import br.com.fiap.tds.exception.CommitException;
+import br.com.fiap.tds.exception.EntityNotFoundException;
 
-// GenericDao<Curso/Aluno, Integer>
+// GenericDao<Curso,Integer>
 
 public interface GenericDao<E, K> {
 
@@ -16,5 +16,4 @@ public interface GenericDao<E, K> {
 	void delete(K id) throws EntityNotFoundException;
 	
 	void commit() throws CommitException;
-	
 }

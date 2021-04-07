@@ -1,4 +1,4 @@
-package br.com.fiap.entity;
+package br.com.fiap.tds.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -9,43 +9,40 @@ import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "tb_aluno")
-@SequenceGenerator(sequenceName = "sq_tb_aluno", allocationSize = 1, name = "aluno")
+@Table(name="TB_ALUNO")
+@SequenceGenerator(name="aluno",sequenceName = "SQ_TB_ALUNO",allocationSize = 1)
 public class Aluno {
 
 	@Id
-	@Column(name = "cd_aluno")
+	@Column(name="cd_aluno")
 	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "aluno")
-	private Integer codigoAluno;
-
-	@Column(name = "nm_aluno", length = 80, nullable = false)
+	private int codigo;
+	
+	@Column(name="nm_aluno", length = 80, nullable = false)
 	private String nome;
-
-	@Column(name = "ds_turma", length = 50, nullable = false)
+	
+	@Column(name="ds_turma", length = 50, nullable = false)
 	private String turma;
+	
+	public Aluno() {}
 
-	public Aluno() {
+	public Aluno(String nome, String turma) {
+		this.nome = nome;
+		this.turma = turma;
 	}
 	
-	public Aluno(String nome, String turma) {
-		super();
+	public Aluno(int codigo, String nome, String turma) {
+		this.codigo = codigo;
 		this.nome = nome;
 		this.turma = turma;
 	}
 
-	public Aluno(Integer codigoAluno, String nome, String turma) {
-		super();
-		this.codigoAluno = codigoAluno;
-		this.nome = nome;
-		this.turma = turma;
+	public int getCodigo() {
+		return codigo;
 	}
 
-	public Integer getCodigoAluno() {
-		return codigoAluno;
-	}
-
-	public void setCodigoAluno(Integer codigoAluno) {
-		this.codigoAluno = codigoAluno;
+	public void setCodigo(int codigo) {
+		this.codigo = codigo;
 	}
 
 	public String getNome() {
@@ -63,5 +60,5 @@ public class Aluno {
 	public void setTurma(String turma) {
 		this.turma = turma;
 	}
-
+	
 }

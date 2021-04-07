@@ -1,11 +1,6 @@
-package br.com.fiap.exception;
+package br.com.fiap.tds.exception;
 
 public class EntityNotFoundException extends Exception {
-
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
 
 	public EntityNotFoundException() {
 		super("Entidade não encontrada");
@@ -14,4 +9,5 @@ public class EntityNotFoundException extends Exception {
 	public EntityNotFoundException(String msg) {
 		super(msg);
 	}
+	
 }
