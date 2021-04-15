@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center_horizontal"
+    android:padding="16dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Informe o material que deseja:" />
+
+    <RadioGroup
+        android:id="@+id/rdgMateriais"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rdbPisoBranco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:textSize="16sp"
+            android:text="Piso Branco Baixo Brilho" />
+
+        <RadioButton
+            android:id="@+id/rdbPisoAlbania"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Piso Albania 45x45" />
+
+        <RadioButton
+            android:id="@+id/rdbPorcelanatoPerlato"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Porcelanato Perlato Branco" />
+
+        <RadioButton
+            android:id="@+id/rdbRevestimentoMosaico"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Revestimento mosaico" />
+
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Informe a medida em m2" />
+
+    <EditText
+        android:id="@+id/edtMedida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="10" />
+
+    <CheckBox
+        android:id="@+id/chkFrete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:text="Ultra frete mega rápido" />
+
+    <Button
+        android:id="@+id/btnCalcular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="calcularValor"
+        android:text="Calcular" />
+
+    <TextView
+        android:id="@+id/txtResultado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textSize="32sp" />
+
+</LinearLayout>
