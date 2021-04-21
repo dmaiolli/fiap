@@ -1,7 +1,9 @@
 package br.com.fiap.entity;
 
 import java.util.Calendar;
+import java.util.List;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
@@ -10,6 +12,8 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
+import javax.persistence.JoinTable;
+import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
 import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
@@ -41,6 +45,34 @@ public class Aluno {
 	@ManyToOne
 	@JoinColumn(name = "cd_grupo", nullable = false)
 	private GrupoChallenge grupo;
+
+	// Mapeamento do relacionamento muitos-para-muitoss
+	@ManyToMany(cascade = CascadeType.PERSIST)
+	// JoinTable -> configura a tabela associativa
+	// name -> nome da tabela associativa
+	// joinColumns -> configura a coluna que armazena a PK/FK da classe atual
+	// inverseJoinColumns -> configura a coluna que armazena a PK/FK do outro lado
+	// da relação
+	@JoinTable(name = "TB_ALUNO_NANO_COURSE", joinColumns = @JoinColumn(name = "nr_rm"), inverseJoinColumns = @JoinColumn(name = "cd_nano_course"))
+	private List<NanoCourses> cursos;
+
+	public Aluno(String nomeAluno, Calendar dataNascimento, Genero genero, GrupoChallenge grupo) {
+		super();
+		this.nomeAluno = nomeAluno;
+		this.dataNascimento = dataNascimento;
+		this.genero = genero;
+		this.grupo = grupo;
+	}
+
+	public Aluno(String nomeAluno, Calendar dataNascimento, Genero genero, GrupoChallenge grupo,
+			List<NanoCourses> cursos) {
+		super();
+		this.nomeAluno = nomeAluno;
+		this.dataNascimento = dataNascimento;
+		this.genero = genero;
+		this.grupo = grupo;
+		this.cursos = cursos;
+	}
 
 	public Aluno(String nomeAluno, Calendar dataNascimento, Genero genero) {
 		super();
@@ -87,6 +119,14 @@ public class Aluno {
 
 	public void setGrupo(GrupoChallenge grupo) {
 		this.grupo = grupo;
+	}
+
+	public List<NanoCourses> getCursos() {
+		return cursos;
+	}
+
+	public void setCursos(List<NanoCourses> cursos) {
+		this.cursos = cursos;
 	}
 
 }

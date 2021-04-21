@@ -1,5 +1,7 @@
 package br.com.fiap.entity;
 
+import java.util.List;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
@@ -7,6 +9,8 @@ import javax.persistence.Enumerated;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.JoinTable;
+import javax.persistence.ManyToMany;
 import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 
@@ -30,7 +34,9 @@ public class NanoCourses {
 	@Enumerated(EnumType.STRING)
 	private NivelCurso nivel;
 	
-
+	// Mapeamento do relacionamento muitos-para-muitos bidirecional
+	@ManyToMany(mappedBy = "cursos")
+	private List<Aluno> alunos;
 
 	public NanoCourses() {
 	}
@@ -80,6 +86,14 @@ public class NanoCourses {
 
 	public void setDescricaoNivel(NivelCurso descricaoNivel) {
 		this.nivel = descricaoNivel;
+	}
+
+	public List<Aluno> getAlunos() {
+		return alunos;
+	}
+
+	public void setAlunos(List<Aluno> alunos) {
+		this.alunos = alunos;
 	}
 
 }
