@@ -1,5 +1,6 @@
 package br.com.fiap.entity;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.persistence.CascadeType;
@@ -10,6 +11,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
 import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 
@@ -21,60 +23,68 @@ public class CasoTeste {
 	@Id
 	@Column(name = "cd_caso_teste")
 	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "casoTeste")
-	private Integer cdCasoTeste;
+	private Integer codigo;
 
 	@Column(name = "nm_caso_teste", length = 80, nullable = false)
-	private String nomeCasoTeste;
+	private String nome;
 
 	@Column(name = "ds_caso_teste", length = 150)
-	private String descCasoTeste;
-	
-	@ManyToOne(cascade = CascadeType.PERSIST)
-	private List<Sistema> codigoSistema;
+	private String descricao;
 
-	public CasoTeste() {
-	}
+	@ManyToOne
+	@JoinColumn(name = "cd_sistema")
+	private Sistema sistema;
 
-	public CasoTeste(String nomeCasoTeste) {
-		super();
-		this.nomeCasoTeste = nomeCasoTeste;
-	}
+	@OneToMany(mappedBy = "casoTeste", cascade = CascadeType.ALL)
+	private List<ItemTeste> itensTeste;
 
-	public CasoTeste(String nomeCasoTeste, String descCasoTeste) {
-		super();
-		this.nomeCasoTeste = nomeCasoTeste;
-		this.descCasoTeste = descCasoTeste;
-	}
-
-	public CasoTeste(Integer cdCasoTeste, String nomeCasoTeste, String descCasoTeste) {
-		super();
-		this.cdCasoTeste = cdCasoTeste;
-		this.nomeCasoTeste = nomeCasoTeste;
-		this.descCasoTeste = descCasoTeste;
+	public void addItemTeste(ItemTeste itemTeste) {
+		if(itensTeste == null) {
+			itensTeste = new ArrayList<ItemTeste>();
+		}
+		
+		itemTeste.setCasoTeste(this);
+		itensTeste.add(itemTeste);
 	}
 
 	public Integer getCdCasoTeste() {
-		return cdCasoTeste;
+		return codigo;
 	}
 
 	public void setCdCasoTeste(Integer cdCasoTeste) {
-		this.cdCasoTeste = cdCasoTeste;
+		this.codigo = cdCasoTeste;
 	}
 
 	public String getNomeCasoTeste() {
-		return nomeCasoTeste;
+		return nome;
 	}
 
 	public void setNomeCasoTeste(String nomeCasoTeste) {
-		this.nomeCasoTeste = nomeCasoTeste;
+		this.nome = nomeCasoTeste;
 	}
 
 	public String getDescCasoTeste() {
-		return descCasoTeste;
+		return descricao;
 	}
 
 	public void setDescCasoTeste(String descCasoTeste) {
-		this.descCasoTeste = descCasoTeste;
+		this.descricao = descCasoTeste;
+	}
+
+	public Sistema getSistema() {
+		return sistema;
+	}
+
+	public void setSistema(Sistema sistema) {
+		this.sistema = sistema;
+	}
+
+	public List<ItemTeste> getItensTeste() {
+		return itensTeste;
+	}
+
+	public void setItensTeste(List<ItemTeste> itensTeste) {
+		this.itensTeste = itensTeste;
 	}
 
 }

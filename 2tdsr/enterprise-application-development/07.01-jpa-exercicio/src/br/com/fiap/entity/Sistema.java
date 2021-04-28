@@ -1,5 +1,9 @@
 package br.com.fiap.entity;
 
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -17,43 +21,45 @@ public class Sistema {
 	@Id
 	@Column(name = "cd_sistema")
 	@GeneratedValue(generator = "sistema", strategy = GenerationType.SEQUENCE)
-	private Integer cdSistema;
+	private Integer codigo;
 
 	@Column(name = "nm_sistema", length = 80, nullable = false)
-	private String nomeSistema;
+	private String nome;
 	
-	@OneToMany(mappedBy = "")
-	private CasoTeste casoTeste;
-
-	public Sistema() {
-
-	}
-
-	public Sistema(String nomeSistema) {
-		super();
-		this.nomeSistema = nomeSistema;
-	}
-
-	public Sistema(Integer cdSistema, String nomeSistema) {
-		super();
-		this.cdSistema = cdSistema;
-		this.nomeSistema = nomeSistema;
+	@OneToMany(mappedBy = "sistema", cascade = CascadeType.ALL)
+	private List<CasoTeste> casosTeste;
+	
+	public void addCasoTeste(CasoTeste casoTeste) {
+		if(casosTeste == null) {
+			casosTeste = new ArrayList<CasoTeste>();
+		}
+		
+		casosTeste.add(casoTeste);
+		casoTeste.setSistema(this);
 	}
 
 	public Integer getCdSistema() {
-		return cdSistema;
+		return codigo;
 	}
 
 	public void setCdSistema(Integer cdSistema) {
-		this.cdSistema = cdSistema;
+		this.codigo = cdSistema;
 	}
 
 	public String getNomeSistema() {
-		return nomeSistema;
+		return nome;
 	}
 
 	public void setNomeSistema(String nomeSistema) {
-		this.nomeSistema = nomeSistema;
+		this.nome = nomeSistema;
+	}
+
+	public List<CasoTeste> getCasosTeste() {
+		return casosTeste;
+	}
+
+	public void setCasosTeste(List<CasoTeste> casosTeste) {
+		this.casosTeste = casosTeste;
 	}
 
 }
