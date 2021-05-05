@@ -20,7 +20,7 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="/home/dmaiolli/github-projects" version="11.0.10"/>
-    <libraryInfo home="/usr/lib/jvm/java-8-openjdk-amd64" version="1.8.0_282">
+    <libraryInfo home="/usr/lib/jvm/java-8-openjdk-amd64" version="1.8.0_292">
         <bootpath>
             <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar"/>
             <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar"/>
@@ -39,7 +39,7 @@
             <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/endorsed"/>
         </endorsedDirs>
     </libraryInfo>
-    <libraryInfo home="/usr/lib/jvm/java-11-openjdk-amd64" version="11.0.10"/>
+    <libraryInfo home="/usr/lib/jvm/java-11-openjdk-amd64" version="11.0.11"/>
     <libraryInfo home="/home/dmaiolli" version="1.8.0_282">
         <bootpath>
             <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar"/>
