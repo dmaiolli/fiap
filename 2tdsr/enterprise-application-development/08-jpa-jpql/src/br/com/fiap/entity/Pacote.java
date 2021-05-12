@@ -16,32 +16,32 @@ import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
 @Entity
-@Table(name="TB_EAD_PACOTE")
-@SequenceGenerator(name="seqPacote", sequenceName="SEQ_TB_EAD_PACOTE", allocationSize=1)
+@Table(name = "TB_EAD_PACOTE")
+@SequenceGenerator(name = "seqPacote", sequenceName = "SEQ_TB_EAD_PACOTE", allocationSize = 1)
 public class Pacote {
 
 	@Id
-	@Column(name="cd_pacote")
-	@GeneratedValue(strategy=GenerationType.SEQUENCE, generator="seqPacote")
+	@Column(name = "cd_pacote")
+	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seqPacote")
 	private int id;
-	
-	@Column(name="ds_pacote", length = 200, nullable=false)
+
+	@Column(name = "ds_pacote", length = 200, nullable = false)
 	private String descricao;
-	
-	@Column(name="dt_saida",nullable=false)
+
+	@Column(name = "dt_saida", nullable = false)
 	@Temporal(TemporalType.DATE)
 	private Calendar dataSaida;
-	
-	@Column(name="qt_dias")
+
+	@Column(name = "qt_dias")
 	private Integer qtdDias;
-	
-	@Column(name="vl_pacote")
+
+	@Column(name = "vl_pacote")
 	private Float preco;
-	
-	@ManyToOne(cascade=CascadeType.PERSIST)
-	@JoinColumn(name="cd_transporte")
+
+	@ManyToOne(cascade = CascadeType.PERSIST)
+	@JoinColumn(name = "cd_transporte")
 	private Transporte transporte;
-	
+
 	public Pacote(String descricao, Calendar dataSaida, Integer qtdDias, Float preco, Transporte transporte) {
 		super();
 		this.descricao = descricao;
@@ -50,7 +50,13 @@ public class Pacote {
 		this.transporte = transporte;
 		this.preco = preco;
 	}
-	
+
+	public Pacote(String descricao, Integer qtdDias) {
+		super();
+		this.descricao = descricao;
+		this.qtdDias = qtdDias;
+	}
+
 	public Pacote() {
 	}
 

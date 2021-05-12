@@ -15,4 +15,6 @@ public interface GenericDAO<T,K> {
 	
 	List<T> listar();
 	
+	List<T> listar(int primeiraPosicao, int maximoResultado);
+	
 }

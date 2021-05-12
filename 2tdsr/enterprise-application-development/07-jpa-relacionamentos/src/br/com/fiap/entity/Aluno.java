@@ -80,6 +80,10 @@ public class Aluno {
 		this.dataNascimento = dataNascimento;
 		this.genero = genero;
 	}
+	
+	public Aluno() {
+		
+	}
 
 	public int getRm() {
 		return rm;
