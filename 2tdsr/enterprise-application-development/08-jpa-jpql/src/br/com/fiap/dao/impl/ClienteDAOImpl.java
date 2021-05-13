@@ -57,4 +57,9 @@ public class ClienteDAOImpl extends GenericDAOImpl<Cliente, Integer> implements 
 				.setParameter("ptNome", "%" + nome + "%").getResultList();
 	}
 
+	@Override
+	public long contarPorEstado(String estado) {
+		return 0;
+	}
+
 }
