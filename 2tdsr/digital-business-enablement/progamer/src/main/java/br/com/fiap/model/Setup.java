@@ -9,8 +9,9 @@ import javax.persistence.Id;
 
 @Entity
 public class Setup {
-	
-	@Id @GeneratedValue(strategy = GenerationType.IDENTITY)
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 	private String name;
 	private String description;
@@ -47,6 +48,13 @@ public class Setup {
 	public String toString() {
 		return "Setup [name=" + name + ", description=" + description + ", price=" + price + "]";
 	}
-	
-	
+
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}
+
 }

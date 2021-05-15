@@ -12,13 +12,13 @@ public class SetupDao {
 
 	public void save(Setup setup) {
 		EntityManager manager = JPAUtil.getEntityManager();
-		
+
 		manager.getTransaction().begin();
 		manager.persist(setup);
 		manager.getTransaction().commit();
-		
+
 		manager.close();
-		
+
 	}
 
 	public List<Setup> getAll() {
@@ -28,7 +28,29 @@ public class SetupDao {
 		// manager.close();
 
 		return query.getResultList();
+	}
+
+	public Setup findById(Long id) {
+		EntityManager manager = JPAUtil.getEntityManager();
+		return manager.find(Setup.class, id);
+	}
+
+	public void update(Setup setup) {
+		EntityManager manager = JPAUtil.getEntityManager();
+
+		manager.getTransaction().begin();
+		manager.merge(setup);
+		manager.flush();
+		manager.getTransaction().commit();
+
+		manager.close();
+	}
+
+	public void delete(Long id) {
+		EntityManager manager = JPAUtil.getEntityManager();
 		
+		Setup setup = findById(id);
+		manager.remove(setup);
 	}
 
 }
