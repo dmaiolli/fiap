@@ -8,6 +8,7 @@ import javax.persistence.TypedQuery;
 
 import br.com.fiap.dao.PacoteDAO;
 import br.com.fiap.entity.Pacote;
+import br.com.fiap.entity.Reserva;
 import br.com.fiap.entity.Transporte;
 
 public class PacoteDAOImpl extends GenericDAOImpl<Pacote, Integer> implements PacoteDAO {
@@ -45,6 +46,19 @@ public class PacoteDAOImpl extends GenericDAOImpl<Pacote, Integer> implements Pa
 	public List<Pacote> buscarPorDatas(Calendar inicio, Calendar fim) {
 		return em.createQuery("from Pacote p where p.dataSaida between :dtInicio and :dtFim", Pacote.class)
 				.setParameter("dtInicio", inicio).setParameter("dtFim", fim).getResultList();
+	}
+
+	@Override
+	public double somarPrecosPorTransporte(Transporte transporte) {
+		return em.createQuery("select sum(p.preco) from Pacote p where p.transporte = :pTransporte", Double.class)
+				.setParameter("pTransporte", transporte).getSingleResult();
+	}
+
+	@SuppressWarnings("unchecked")
+	@Override
+	public List<Pacote> buscarPorQtdDiasMaiorEPrecoMenor(int qtd, float preco) {
+		return em.createNativeQuery("SELECT * FROM TB_EAD_PACOTE p WHERE p.qt_dias > :qtd AND p.vl_pacote < :preco",
+				Pacote.class).setParameter("qtd", qtd).setParameter("preco", preco).getResultList();
 	}
 
 }

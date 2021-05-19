@@ -35,6 +35,9 @@ public class TestePesquisaCliente {
 			System.out.println(cliente.getNome());
 		}
 
+		long qtd = clienteDao.contarPorEstado("PR");
+		System.out.println(qtd);
+		
 		em.close();
 		EntityManagerFactorySingleton.getInstance().close();
 
