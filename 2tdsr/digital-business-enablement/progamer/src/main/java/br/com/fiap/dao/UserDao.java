@@ -12,13 +12,11 @@ public class UserDao {
 
 	public void save(User user) {
 		EntityManager manager = JPAUtil.getEntityManager();
-		
+
 		manager.getTransaction().begin();
 		manager.persist(user);
 		manager.getTransaction().commit();
-		
-		manager.close();
-		
+
 	}
 
 	public List<User> getAll() {
@@ -28,7 +26,21 @@ public class UserDao {
 		// manager.close();
 
 		return query.getResultList();
-		
+
+	}
+
+	public boolean exist(User user) {
+		EntityManager manager = JPAUtil.getEntityManager();
+		TypedQuery<User> query = manager
+				.createQuery("SELECT u FROM User u WHERE u.email = :email AND u.password = :pswd", User.class)
+				.setParameter("email", user.getEmail()).setParameter("pswd", user.getPassword());
+		try {
+			query.getSingleResult();
+		} catch (Exception e) {
+			return false;
+		}
+
+		return true;
 	}
 
 }
