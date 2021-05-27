@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nome": "Máscara de mergulho",
+    "descricao": "Mascara de mergulho para mergulhar",
+    "estoque": 10,
+    "imagem":
+      "https://images.unsplash.com/photo-1556889182-1dc23a00ffc7?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDl8X2hiLWRsNFEtNFV8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "valor": "R$ 25,99"
+  },
+  {
+    "id": 2,
+    "nome": "Fone Bluetooth MiAirdots",
+    "descricao": "Fone para ouvir musica sem fio",
+    "estoque": 0,
+    "imagem":
+      "https://images.unsplash.com/photo-1606741965326-cb990ae01bb2?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8Sjl5clBhSFhSUVl8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "valor": "R$ 150,00"
+  },
+  {
+    "id": 3,
+    "nome": "JBL GO",
+    "descricao": "JBL GO e de brinde uma banana",
+    "estoque": 10,
+    "imagem":
+      "https://images.unsplash.com/photo-1606999807171-ea138db6dcd1?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDN8Sjl5clBhSFhSUVl8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "valor": "R$ 120,68"
+  }
+]
