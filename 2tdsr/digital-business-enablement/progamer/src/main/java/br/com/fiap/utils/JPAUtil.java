@@ -7,13 +7,13 @@ import javax.persistence.Persistence;
 public abstract class JPAUtil {
 	
 	private static final EntityManagerFactory FACTORY = Persistence.createEntityManagerFactory("progamer-persistence-unit");
-	EntityManager manager = FACTORY.createEntityManager();
 	private static EntityManager manager;
 	
 	public static EntityManager getEntityManager() {
 		if(manager == null) {
 			manager = FACTORY.createEntityManager();
 		}
+		return manager;
 	}
 	
 	
